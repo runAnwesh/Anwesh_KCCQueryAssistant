@@ -132,7 +132,7 @@ Check out the 3–5 min screencast covering:
 * 3-5 queries returning KCC-based answers
 * 2-3 queries falling back to live Internet search
 
-**\[Google Drive Demo Video Link Here]**
+**\[Google Drive Demo Video]([https://www.genome.gov/](https://drive.google.com/drive/folders/1fU4jH3ZgedIIFSOhbIV1QSFHlm0am0XZ?usp=sharing))**
 
 ---
 
@@ -158,8 +158,6 @@ All scripts are heavily documented for clarity:
 
 Feel free to reach out if you’d like help customizing this further, deploying on cloud, or extending features. Enjoy your fully functional KCC Query Assistant! 🚀🌾
 
-```
 
----
 
 
