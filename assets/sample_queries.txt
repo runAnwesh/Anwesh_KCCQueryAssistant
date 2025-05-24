@@ -1,0 +1,13 @@
+Relevant KCC-based queries (agriculture-focused, matching dataset topics):
+“What pest-control methods are recommended for paddy in Tamil Nadu?”
+“How to manage drought stress in groundnut cultivation?”
+“What issues do sugarcane farmers in Maharashtra commonly face?”
+“What is the recommended fertilizer application for sugarcane in Maharashtra?”
+“How can I control aphids in mustard crop?”
+“Where can farmers get early ahu rice variety in Assam?”
+“How to manage flower drop in cotton during summer?”
+
+Irrelevant queries (to trigger fallback search):
+“What’s the latest iPhone release date?”
+“How to cook Italian pasta at home?”
+“What are the best travel destinations in 2025?”
