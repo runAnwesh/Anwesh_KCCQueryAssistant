@@ -45,7 +45,7 @@ Built as part of the AI Engineer assignment.
 
 ### 1️⃣ Data Ingestion
 - **Source**: Public KCC dataset (`data/raw/KCC_raw_data.csv`)
-- **Script**: `scripts/preprocess_data.py`
+- **Script**: `scripts/data_ingestion.ipynb` and `scripts/preprocess_data.py`
 - **Output**: Cleaned & normalized JSON dataset in `data/processed/KCC_processed_data.json`
 
 ### 2️⃣ Local LLM Deployment
