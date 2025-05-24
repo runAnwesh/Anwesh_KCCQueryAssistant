@@ -173,7 +173,3 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Vector store files
-vector_store/
-*.faiss
-*.json
