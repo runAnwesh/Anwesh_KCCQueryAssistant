@@ -132,7 +132,7 @@ Check out the 3–5 min screencast covering:
 * 3-5 queries returning KCC-based answers
 * 2-3 queries falling back to live Internet search
 
-**\[Google Drive Demo Video](https://drive.google.com/drive/folders/1fU4jH3ZgedIIFSOhbIV1QSFHlm0am0XZ?usp=sharing)**
+[Google Drive Demo Video](https://drive.google.com/drive/folders/1fU4jH3ZgedIIFSOhbIV1QSFHlm0am0XZ?usp=sharing)
 
 ---
 
