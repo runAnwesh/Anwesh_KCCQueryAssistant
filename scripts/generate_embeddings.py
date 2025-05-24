@@ -5,7 +5,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 
-PROCESSED_PATH = '../data/processed/kcc_cleaned.json'
+PROCESSED_PATH = '../data/processed/KCC_processed_data.json'
 VECTOR_STORE_DIR = '../vector_store/'
 INDEX_FILE = os.path.join(VECTOR_STORE_DIR, 'index.faiss')
 DOCS_FILE = os.path.join(VECTOR_STORE_DIR, 'documents.json')
