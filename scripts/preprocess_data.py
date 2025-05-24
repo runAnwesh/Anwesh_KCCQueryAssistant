@@ -3,7 +3,7 @@ import json
 import os
 
 RAW_PATH = '../data/raw/KCC_raw_data.csv'
-PROCESSED_PATH = '../data/processed/kcc_cleaned.json'
+PROCESSED_PATH = '../data/processed/KCC_processed_data.json'
 
 def clean_text(text: str) -> str:
     """Basic text cleaning: lowercase, strip extra whitespace."""
@@ -25,9 +25,6 @@ def preprocess():
             'id': idx,
             'question': row['questions'],
             'answer': row['answers']
-            # If you have more metadata, include like:
-            # 'language': row.get('language', ''),
-            # 'state': row.get('state', ''),
         }
         processed_data.append(chunk)
     
